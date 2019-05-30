@@ -1,4 +1,4 @@
-# VS Code Smippet Creator
+# VS Code Snippet Creator
 
 ## Install
 
