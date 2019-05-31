@@ -2,7 +2,9 @@
 
 ## Installation
 
-`npm install`
+```
+npm install
+```
 
 ## Setup
 
@@ -11,7 +13,7 @@
 
 eg:
 
-```
+```javascript
 /**
  * description: "Unit Test Server"
  * prefix: "uts"
@@ -26,6 +28,8 @@ describe("$1 ::", () => {
 ```
 
 ## Run
+
+- From terminal
 
 ```
 createSnippet
