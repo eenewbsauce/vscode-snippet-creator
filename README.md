@@ -37,6 +37,14 @@ createSnippet
 
 Snippets are written to stdout
 
+OR
+
+```
+createSnippet true
+```
+
+Snippets written directly to javascript.json in vs code (mac only)
+
 ## Add to VS Code
 
 - Open javascript.json
